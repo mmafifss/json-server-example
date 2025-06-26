@@ -1,0 +1,44 @@
+{
+  "packages": [
+    {
+      "id": 1,
+      "name": "Basic Analytics Package",
+      "description": "Essential data analytics package for small businesses",
+      "price": 99.99,
+      "features": [
+        "Basic customer insights",
+        "Monthly reports",
+        "Up to 10,000 data points",
+        "Email support"
+      ],
+      "category": "analytics"
+    },
+    {
+      "id": 2,
+      "name": "Premium Market Data",
+      "description": "Comprehensive market analysis and trends",
+      "price": 199.99,
+      "features": [
+        "Real-time market data",
+        "Industry comparisons",
+        "Unlimited data points",
+        "24/7 support"
+      ],
+      "category": "market"
+    },
+    {
+      "id": 3,
+      "name": "Enterprise Solutions",
+      "description": "Complete data package for large organizations",
+      "price": 499.99,
+      "features": [
+        "Custom analytics",
+        "API access",
+        "Dedicated support team",
+        "Advanced visualization tools"
+      ],
+      "category": "enterprise"
+    }
+  ],
+  "cart": []
+}
